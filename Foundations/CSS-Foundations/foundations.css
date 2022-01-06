@@ -1,0 +1,14 @@
+* {
+  /* Universal selector */
+  color: purple;
+}
+
+div {
+  /* Selects only the <div> elements */
+  color: white;
+}
+
+.alert-text {
+  /* Will be used only when the class selector is called in the starting tag*/
+  color: red;
+}
